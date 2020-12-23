@@ -47,7 +47,7 @@ categories: [profile]
 ### Warning Signs
 
 - If I don't feel safe in a conversation, I will respectfully try to turn the conversation to something I'm more comfortable with or will politely exit the talk. If its something I feel I need to address afterwards, I will gently let you know via a private message on Slack.
-- If I'm just not having an "on" or "good" day, I will usually & unfortunately look it. **Please don't point it out.** I already know.
+- If I'm just not having an "on" or "good" day, I will usually & unfortunately look it. I can't help it. **Please don't point it out.** I already know.
 
 ### How to help
 
