@@ -40,16 +40,14 @@ categories: [profile]
 ## Communication Preferences
 
 - I do my best to respond quickly to any messages via **Slack or Email** during business hours.
-- For **urgent matters**, I frequently check my **Email** during non-working hours.
-- When I'm not at work, I will skim through emails to lightly check-in and make sure I'm not needed.
-- If I'm at work and I've got my headphones on, feel free to send me a message on Slack.
+- For **urgent matters**, I frequently check my **Email** during non-working hours. I usually skim through emails to lightly check-in and make sure I'm not needed.
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
 - If I don't feel safe in a conversation, I will respectfully try to turn the conversation to something I'm more comfortable with or will politely exit the talk. If its something I feel I need to address afterwards, I will gently let you know via a private message on Slack.
-- If I'm just not having an "on" or "good" day, I usually & unfortunately look it.
+- If I'm just not having an "on" or "good" day, I will usually & unfortunately look it.
 
 ### How to help
 
