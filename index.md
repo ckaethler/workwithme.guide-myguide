@@ -6,90 +6,84 @@ full_name: Cat Kaethler
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/ckaethler/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile_picture.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
-
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+ 
+ - "**Teamwork** makes the dream work!"
+ - I value **learning** new things & constantly striving to better myself through education.
+ - I do my best to be **adaptable** and **resourceful** in the face of new challenges.
+ - I value **respect** and **kindness** from others.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+- I am **passionate** about the work that I do and enjoy finding ways to grow professionally and personally each day.
+- I am **results-oriented** and a **problem-solver**. I care about contributing as much as I can to my team in order to get to the finish line successfully.
+- I take extra time each day to keep myself **organized** so as to stay on top of important tasks and be **mindful** of how to distribute my time effectively.
+- I place a high significance on approaching every situation with **patience** and a **openness** towards other's inputs and viewpoints.
 
 ## Receiving Feedback & Recognition
-
-How do you best receive feedback, be it positive or negative?
-
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+- **I love feedback!** It helps me grow and learn from both my successes and failures/mistakes.
+- **Positive Feedback**: I like private slack channel messages. If you want to give a shout out in other ways, please feel free to message me privately and ask for permission first.
+- **Negative Feedback:** I prefer a private message with concrete examples and a respectful communication style. I'm very willing to hear constructive criticism and will do my best to resolve the issue.
 
 ## Work Patterns
 
-What hours do you usually work?
-
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+- I currently work **standard business hours 9AM to 6PM Eastern Standard Time** (6AM to 3PM PST), but am flexible when needed.
+- I prefer to work in groups when I need to solve harder problems, finish off difficult tasks, or want to increase creativity.
+- I prefer to work alone when I am able to work at my own pace.
+- My energy levels are best after my morning & afternoon coffee. I start to get a little drained by the end of the day, but will perk up with a hot cup of green tea.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
-
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+- I do my best to respond quickly to any messages via **Slack or Email** during business hours.
+- For **urgent matters**, I frequently check my **Email** during non-working hours.
+- When I'm not at work, I will skim through emails to lightly check-in and make sure I'm not needed.
+- If I'm at work and I've got my headphones on, feel free to send me a message on Slack.
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+- If I don't feel safe in a conversation, I will respectfully try to turn the conversation to something I'm more comfortable with or will politely exit the talk. If its something I feel I need to address afterwards, I will gently let you know via a private message on Slack.
+- If I'm just not having an "on" or "good" day, I usually & unfortunately look it.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+- Empathy and kindness go a long way for me! Please be patient and try to remember that I'm doing my best.
+- If I need anything else, I will let you know on a case-by-case basis.
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+- My mind can go into research overdrive when I feel like a fish out of water, so please feel free to direct me towards any kind of documentation if I'm asking too many questions.
 
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+- None! :)
+- I do my best to live humbly, give others lots of grace, and coexist happily with other's differing personality traits and work styles.
+- If you're doing something that is **seriously** negatively affecting my ability to get things done and I think talking to you will help, I will privately speak to you to open up a dialogue.
+- Otherwise, I have miles of patience and am fairly easy going even when it comes to difficult people (growing up with eight **LOUD** siblings will do that to you!)
 
 ## Career Goals & Future Interests
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+- **Short Term Goals**: Use my skills to contribute meaningfully to my team, hone my coding skills, & learn a ton of new things along the way! Learning how to write cleaner code is what I'm currently working on.
+- **Long Term Goals**: Improve my programming skills, communication skills, and efficiency rate for completing projects. I want to stay up to date on the latest technology. Hopefully someday get a promotion!
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+- I am still growing in my ability to maintain focus after reaching a certain level of feeling overwhelmed. I already have a few strategies, but any tips or tricks from others who also deal with this are welcome!
+- Like many others, imposter syndrome can sometimes creep up on me
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+- My current music selection
+- What podcast I listened to during my morning workout
+- Why crocheting is still cool & not just for old spinsters living alone with 3+ cats
+- My opinion on the last season of Game of Thrones
+- My cat, Mustafa <3 
