@@ -46,12 +46,13 @@ categories: [profile]
 
 ### Warning Signs
 
-- If I don't feel safe in a conversation, I will respectfully try to turn the conversation to something I'm more comfortable with or will politely exit the talk. If its something I feel I need to address afterwards, I will gently let you know via a private message on Slack.
-- If I'm just not having an "on" or "good" day, I will usually & unfortunately look it. I can't help it. **Please don't point it out.** I already know.
+- If I don't feel safe in a conversation, I will respectfully try to turn the conversation to something I'm more comfortable with or will politely exit the talk. If its something I feel I need to address afterwards, I will gently let you know privately.
+- If I'm just not having an "on" or "good" day (i.e. I'm having a bad day), I will usually & unfortunately look it (haha)
 
 ### How to help
 
 - Empathy and kindness go a long way for me! Please be patient and try to remember that I'm doing my best.
+- A cup of green tea is always appreciated!
 - If I need anything else, I will let you know on a case-by-case basis.
 
 ## Me Being Me
@@ -63,25 +64,23 @@ categories: [profile]
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-- None! :)
-- I do my best to live humbly, give others lots of grace, and coexist happily with other's differing personality traits and work styles.
-- If you're doing something that is **seriously** negatively affecting my ability to get things done and I think talking to you will help, I will privately speak to you to open up a dialogue.
-- Otherwise, I have miles of patience and am fairly easy going even when it comes to difficult people (growing up with eight **LOUD** siblings will do that to you!)
+- None :)
+- If you're doing something that is **seriously** negatively affecting my ability to get things done, I will privately speak to you to open up a dialogue.
 
 ## Career Goals & Future Interests
 
 - **Short Term Goals**: Use my skills to contribute meaningfully to my team, hone my coding skills, & learn a ton of new things along the way! Learning how to write cleaner code is what I'm currently working on.
-- **Long Term Goals**: Improve my programming skills, communication skills, and efficiency rate for completing projects. I want to stay up to date on the latest technology. Hopefully someday get a promotion!
+- **Long Term Goals**: Improve my programming skills, communication skills, and efficiency rate for completing projects. I want to stay up to date on the latest technology... Hopefully someday get a promotion!
 
 ## Areas for Development
 
 - I am still growing in my ability to maintain focus after reaching a certain level of feeling overwhelmed. I already have a few strategies, but any tips or tricks from others who also deal with this are welcome!
-- Like many others, imposter syndrome can sometimes creep up on me
+- Like many others, imposter syndrome can sometimes creep up on me.
 
 ## Ask Me About
 
-- My current music selection
+- What music I'm listening to
 - What podcast I listened to during my morning workout
-- Why crocheting is still cool & not just for old spinsters living alone with 3+ cats
+- Why crocheting is still cool & not just for old spinsters living in a cat colony
 - My opinion on the last season of Game of Thrones
 - My cat, Mustafa <3 
